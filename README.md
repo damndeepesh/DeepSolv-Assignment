@@ -62,7 +62,7 @@ DeepSolvAssignement/
 
 ### 1. **Install dependencies**
 ```bash
-pip install -r requirements.txt --break-system-packages
+pip install -r requirements.txt
 ```
 
 ### 2. **Create the database**
